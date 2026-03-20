@@ -1,0 +1,29 @@
+Instrument ID,Health%,Reason,Date
+Disso-1,80,Many incidents,2026-03-21
+Disso-2,89,Many incidents,2026-03-21
+Disso-3,97,Many incidents,2026-03-21
+Disso-4,97,Many incidents,2026-03-21
+Disso-5,87,Many incidents,2026-03-21
+Disso-6,89,Many incidents,2026-03-21
+Disso-7,79,"Old components, Many incidents",2026-03-21
+HPLC-1,86,Many incidents,2026-03-21
+HPLC-2,95,Many incidents,2026-03-21
+HPLC-3,90,Many incidents,2026-03-21
+HPLC-4,86,Many incidents,2026-03-21
+HPLC-5,70,"PM overdue, Many incidents",2026-03-21
+HPLC-6,92,"PM overdue, Many incidents",2026-03-21
+HPLC-7,88,"High usage, Many incidents",2026-03-21
+IR-1,89,Many incidents,2026-03-21
+IR-2,77,Healthy,2026-03-21
+IR-3,89,Many incidents,2026-03-21
+UV Spec-1,62,"Old components, PM overdue",2026-03-21
+UV Spec-10,97,"Heat stress, Many incidents",2026-03-21
+UV Spec-11,74,Healthy,2026-03-21
+UV Spec-2,62,Many incidents,2026-03-21
+UV Spec-3,78,Many incidents,2026-03-21
+UV Spec-4,80,"Heat stress, Many incidents",2026-03-21
+UV Spec-5,55,"Heat stress, PM overdue",2026-03-21
+UV Spec-6,70,Many incidents,2026-03-21
+UV Spec-7,80,Many incidents,2026-03-20
+UV Spec-8,98,Many incidents,2026-03-21
+UV Spec-9,88,Many incidents,2026-03-21
