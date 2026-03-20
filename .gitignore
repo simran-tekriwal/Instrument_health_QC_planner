@@ -1,0 +1,15 @@
+# Python environment folders
+.venv/
+venv/
+__pycache__/
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Model files (optional but recommended)
+*.pkl
+
+# Temporary files
+*.log
+*.tmp
+*.DS_Store
